@@ -26,7 +26,7 @@ No installation needed: just run `TidyFolder.exe`. Settings are saved in a `Tidy
 ## Run from source
 
 ```bash
-git clone https://github.com/<your-user>/TidyFolder.git
+git clone https://github.com/CafeConFenix/TidyFolder.git
 cd TidyFolder
 python -m pip install -r requirements.txt
 python run.py
