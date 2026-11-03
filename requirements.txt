@@ -1,0 +1,4 @@
+customtkinter>=5.2.2
+pypdf>=4.0.0
+keyring>=24.0.0
+-r requirements-ocr.txt
