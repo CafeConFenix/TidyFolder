@@ -1,0 +1,5 @@
+# OCR for scanned PDFs. The released .exe already bundles the Tesseract engine and the
+# Spanish/English models; when running from source run `python scripts/prepare_tesseract.py`
+# (or install Tesseract yourself) so the engine is found.
+pypdfium2>=4.30.0
+Pillow>=10.0.0
