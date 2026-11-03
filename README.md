@@ -5,7 +5,7 @@
 **Sort a messy folder by *what your documents are about* — not just by file extension.**
 Bilingual (English / Español) · Preview every move · One-click undo · Works offline
 
-### [⬇ Download TidyFolder.exe](https://github.com/<your-user>/TidyFolder/releases/latest/download/TidyFolder.exe)
+### [⬇ Download TidyFolder.exe](https://github.com/CafeConFenix/TidyFolder/releases/latest/download/TidyFolder.exe)
 
 *Portable: no installer, just run it. Windows 10/11.*
 
@@ -49,7 +49,7 @@ Most sorters just look at the file extension. TidyFolder also **reads your PDFs,
 
 ## Quick start
 
-1. Download `TidyFolder.exe` from the [latest release](https://github.com/<your-user>/TidyFolder/releases/latest) and run it.
+1. Download `TidyFolder.exe` from the [latest release](https://github.com/CafeConFenix/TidyFolder/releases/latest) and run it.
 2. Choose the folder to organize and press **Analyze folder**.
 3. Review the table. Click ☑ to exclude a file, or the *Action* column to switch **Move ⇄ Copy**.
 4. Press **Organize files**. Changed your mind? **Undo last run**.
@@ -79,7 +79,7 @@ Running from source? `pip install -r requirements.txt` installs the OCR Python p
 ## Run from source
 
 ```bash
-git clone https://github.com/<your-user>/TidyFolder.git
+git clone https://github.com/CafeConFenix/TidyFolder.git
 cd TidyFolder
 python -m pip install -r requirements.txt
 python run.py
